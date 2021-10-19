@@ -45,21 +45,21 @@
         "id": "7",
         "name": "Mental Health",
         "img": "https://www.incimages.com/uploaded_files/image/1920x1080/shutterstock_619960997_360000.jpg",
-        "text": "Mental health, a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully",
+        "text": "Mental health, a state of well-being in which the individual realizes his or her own abilities",
         "price": "1000"
     },
     {
         "id": "8",
         "name": "24/7 Availability",
         "img": "https://pi-dubai.com/wp-content/uploads/2017/07/247.gif",
-        "text": "We will provide our services at any time you want",
+        "text": "We will provide our services at any time you want,across the nation, 24 hours a day and 365 days a year.",
         "price": "100"
     },
     {
         "id": "9",
         "name": "Ambulance",
         "img": "https://thumbs.dreamstime.com/b/ambulance-kuala-lumpur-international-airport-rd-january-medilife-ambulance-standby-emergency-airport-107095791.jpg",
-        "text": "We provide ambulance transfers to / from hospital. We also provide ambulance response services, emergency and routine pre hospital patient care and patient transport services in a timely quality manner, across the nation, 24 hours a day and 365 days a year.",
+        "text": "We provide ambulance transfers to / from hospital. We also provide ambulance response services",
         "price": "100-5000"
     }
 ]
